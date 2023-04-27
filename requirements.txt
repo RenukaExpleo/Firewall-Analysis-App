@@ -1,0 +1,10 @@
+pandas==1.5.3
+numpy==1.23.5
+seaborn==0.12.2
+matplotlib==3.7.1
+networkx==2.6.3
+joblib==1.2.0
+beautifulsoup4==4.10.0
+lightgbm==3.3.5
+sklearn
+gunicorn
